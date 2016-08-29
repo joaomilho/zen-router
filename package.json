@@ -1,0 +1,31 @@
+{
+  "name": "zen-router",
+  "version": "1.0.0",
+  "description": "The simplest router possible",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaomilho/zen-router.git"
+  },
+  "keywords": [
+    "router",
+    "zen",
+    "route",
+    "routes",
+    "simple",
+    "simplest"
+  ],
+  "author": "Juan Lulkin <maiz@lulk.in> (https://medium.com/@joaomilho/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaomilho/zen-router/issues"
+  },
+  "homepage": "https://github.com/joaomilho/zen-router#readme",
+  "devDependencies": {
+    "sinon": "^1.17.5",
+    "tape": "^4.6.0"
+  }
+}
